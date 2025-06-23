@@ -2,8 +2,8 @@ NOMBRE DEL ARCHIVO DONDE SE GUARDARA LOS DATOS
 ww
 PARAMETROS FISICOS
 Npar=    108          numero de particulas
-rho=     0.8442       densidad de particulas 
-T=       4.8          temperatura 
+rho=     0.1       densidad de particulas 
+T=       2.8          temperatura 
 PARAMETROS DINAMICOS
 dt=      0.001        incremento de tiempo [<=1]
 Ndm=     1000         numero de pasos (tmax=dt*Ndm)
